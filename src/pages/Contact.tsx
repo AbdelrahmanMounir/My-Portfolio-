@@ -2,10 +2,9 @@ import { motion } from "framer-motion";
 import { Mail, Phone, MapPin, GraduationCap, User } from "lucide-react";
 
 const contactData = {
-  name: "Abdelrahaman Mohamed Mounir Mohamed",
-  country: "Egypt",
+  country: "Banha",
   governorate: "Qalyubia",
-  emails: ["abdelrahmanmunir00@gmail.com", "2401179@rst.edu.eg"],
+  emails: ["abdelrahmanmunir00@gmail.com"],
   phones: ["01101724507", "01065498203"],
 };
 
